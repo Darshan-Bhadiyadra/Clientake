@@ -1,0 +1,691 @@
+@media screen and (min-width: 992px) and (max-width: 1199px)
+
+{
+    
+    .main-menu li a{
+        font-size: 13px;
+        padding: 10px 15px !important;
+    }
+
+    .item .IMG-TXT{
+        top: 15%;
+        left: 5%;
+    }
+
+    .IMG-TXT h4{
+        margin: 0 0 4px;
+    }
+    
+    .IMG-TXT h2{
+        font-size: 50px;
+        margin: 0 0 4px;
+    }
+    
+    .IMG-TXT p{
+        font-size: 14px;
+        width: 55%;
+        margin: 0 0 20px;
+        line-height: 20px;
+    }
+    
+    .IMG-TXT a{
+        padding: 10px 20px;
+        border-radius: 35px;
+        transition: .5s;
+        font-size: 14px;
+    }
+    
+    .IMG-TXT i{
+        font-size: 12px;
+    }
+
+    .practice-mask{
+        padding: 15px 20px;
+    }
+
+    .practice-mask h4{
+        font-size: 18px;
+    }
+    
+    .practice-mask p{
+        line-height: 16px;
+        font-size: 11px;
+    }
+    
+    .practice-mask a{
+        padding: 3px 16px;
+    }
+
+    .mask h2{
+        margin: 55px 0 20px;
+        font-size: 25px;
+    }
+
+    .mask i{
+        padding: 10px;
+    }
+
+    .obox{
+        padding: 34px 35px;
+    }
+
+    .orange-mail h3{
+        font-size: 13px;
+    }
+    
+    .orange-mail i{
+        font-size: 48px !important;
+    }
+    
+    .orange-mail p{
+        font-size: 22px;
+    }
+
+    .box1 h4{
+        font-size: 20px;
+    }
+    
+    .box1 p{
+        line-height: 22px;
+    }
+    
+    .box1 i{
+        padding: 10px;
+    }
+
+}
+
+
+@media screen and (min-width: 768px) and (max-width: 991px)
+
+{
+
+    .spacer{
+        padding-top: 70px;
+        padding-bottom: 50px;
+    }
+
+    .head-logo img{
+        width: 100%;
+        margin-bottom: 15px !important; 
+    }
+
+    .main-menu li a{
+        font-size: 13px;
+        padding: 5px 7px !important;
+        font-weight: bold !important;
+    }
+
+    .main-menu li i{
+        font-size: 10px;
+    }
+
+     .free-btn a{
+        padding: 5px !important;
+        font-size: 13px;
+     }
+
+    .item .IMG-TXT{
+        color: #ffffff;
+        top: 17% !important;
+        left: 5%;
+    }
+
+    .IMG-TXT h4{
+        font-weight: 200 !important;
+        font-size: 18px;
+        margin: 0 0 4px;
+    }
+    
+    .IMG-TXT h2{
+        font-size: 36px;
+        margin: 0 0 4px;
+    }
+    
+    .IMG-TXT p{
+        font-size: 13px;
+        width: 58%;
+        margin: 0 0 16px;
+        line-height: 18px;
+    }
+    
+    .IMG-TXT a{
+        padding: 8px 15px;
+        border-radius: 35px;
+        font-size: 14px;
+    }
+    
+    .IMG-TXT i{
+        font-size: 13px;
+    }
+
+    .box1{
+        padding: 15px 0 !important;
+        margin: 10px 25px;
+    }
+    
+    .box1 h4{
+        font-size: 18px;
+    }
+    
+    .box1 i{
+        font-size: 35px;
+    }
+
+    .white-box{
+        width: 98%;
+        position: static;
+    }
+
+    .law-firm-img{
+        margin: 35px 70px 0 !important;
+     }
+
+    .practice-mask{
+        padding: 15px 15px;
+    }
+
+    .practice-mask h4{
+        font-size: 22px;
+    }
+    
+    .practice-mask p{
+        line-height: 20px;
+        font-size: 14px;
+        width: 100%;
+        margin-bottom: 12px;
+    }
+    
+    .practice-mask a{
+        padding: 4px 20px;
+    }
+
+    .big-txt-col{
+        margin-bottom: 30px;
+        display: grid;
+        place-items: center;
+        margin: 0 5px 30px;
+        text-align: center;
+    }
+
+    .request-quote a{
+        display: grid;
+        place-items: center;
+        margin: 0 200px;
+    }
+
+    .Ourblog{
+        margin-bottom: 110px;
+    }
+
+    .foot-row-1 img{
+        width: 45% !important;
+    }
+
+    .foot-row-1 p{
+        margin: 18px 0;
+    }
+    
+    .foot-row-2 h4{
+        margin: 0 0 25px 0;
+    }
+    
+    .foot-row-2{
+        margin-bottom: 16px;
+    }
+
+    .orange-info-box{
+        background-color: var(--mn-txt-color);
+        color: white;
+        margin-top: -150px;
+    }
+
+    .media-icons{
+        display: grid;
+        place-items: center;
+        margin-bottom: 25px;
+        margin-top: 10px;
+    }
+    
+    .orange-mail h3{
+        font-size: 12px;
+    }
+    
+    .orange-mail i{
+        font-size: 44px !important;
+    }
+    
+    .orange-mail p{
+        font-size: 18px;
+    }
+
+    .big-footer{
+        margin-top: 8px;
+    }
+
+    .map{
+        height: 320px !important;
+    }
+
+    .contact-part{
+        margin-top: 200px;
+        margin-bottom: 50px;
+    }
+}
+
+
+@media screen and (max-width: 767px)
+
+{
+
+    .head-logo{
+        text-align: center;
+    }
+
+    .contact-area ul{
+        flex-wrap: wrap !important;
+        justify-content: center !important;
+        margin-top: 25px !important;
+    }
+
+    .free-btn{
+        display: none;
+    }
+
+
+}
+
+
+/* @media screen and (min-width: 375px){
+
+    .practice-mask{
+        padding: 15px 20px !important;
+    }
+
+    .practice-mask p{
+        font-size: 14px !important;
+        width: 100%;
+    }
+
+    .request-quote a{
+        padding: 15px 10px !important;
+        margin: 0 40px !important;
+    }
+
+}
+
+
+@media screen and (min-width: 320px){
+
+    .practice-mask{
+        padding: 15px 20px !important;
+    }
+
+    .practice-mask p{
+        font-size: 11px !important;
+        width: 100%;
+        margin-bottom: 10px !important;
+        line-height: 18px !important;
+    }
+
+    .practice-mask h4{
+        font-size: 18px !important;
+    }
+
+    .practice-mask a{
+        padding: 3px 8px !important;
+        font-size: 10px !important;
+    }
+
+} */
+
+
+@media screen and (min-width: 0px) and (max-width: 576px){
+
+
+    .spacer{
+        padding-top: 60px;
+        padding-bottom: 40px;
+    }
+
+    #scroll_top{
+        width: 50px;
+        height: 50px;
+        background-color: var(--mn-txt-color);
+        border-radius: 36%;
+        color: #fff;
+        text-align: center;
+        line-height: 50px;
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        transition: 1s;
+        opacity: 1;
+        cursor: pointer;
+        font-size:30px;
+        font-weight: bolder;
+        padding: 2px;
+        z-index: 1;
+        transition: .3s;
+    }
+    
+
+    #banner .item img {
+        height: 198px;
+     }
+
+    .item .IMG-TXT{
+        top: 20% !important;
+        left: 5%;
+    }
+
+    .IMG-TXT h4{
+        font-size: 14px;
+        margin: 0 0 3px;
+    }
+    
+    .IMG-TXT h2{
+        font-size: 22px;
+        margin: 0 0 3px;
+    }
+    
+    .IMG-TXT p{
+        font-size: 8px;
+        width: 58%;
+        margin: 0 0 4px;
+        line-height: 10px;
+    }
+    
+    .IMG-TXT a{
+        padding: 5px 15px;
+        font-size: 8px;
+    }
+    
+    .IMG-TXT i{
+        font-size: 6px;
+        margin: 0 0 0 5px;
+    }
+
+    .box1{
+        padding: 10px 0;
+        display: grid;
+        margin: 0 10px;
+    }
+    
+    .box1 h4{
+        font-size: 16px;
+    }
+    
+    .box1 p{
+        line-height: 18px;
+        font-size: 12px;
+    }
+    
+    .box1 i{
+        padding: 8px;
+    }
+
+    .white-box{
+        width: 100%;
+        padding: 60px;
+        position: static;
+        text-align: center;
+    }
+
+    .white-box h4{
+        font-size: 18px;
+        text-align: left;
+    }
+
+    .white-box p{
+        width: 98%;
+        padding: 0 4px;
+        text-align: left;
+    }
+
+    .law-firm-img{
+        margin: 35px 0 !important;
+        width: 100%;
+     }
+
+    .service-txt h2{
+        font-size: 28px;
+    }
+
+    .service-txt p{
+        width: 97%;
+        font-size: 14px;
+        line-height: 25px;
+    }
+
+    .big-txt-col{
+        margin-bottom: 30px;
+        display: grid;
+        place-items: center;
+        margin: 0 10px 30px;
+        text-align: center;
+    }
+
+    .big-txt-col h2{
+        font-size: 22px;
+        line-height: 35px;
+    }
+    
+    .big-txt-col p{
+        line-height: 25px;
+        font-size: 15px;
+        width: 100%;
+    }
+
+    .request-quote a{
+        padding: 12px 15px !important; 
+        font-size: 14px;
+        display: grid;
+        place-items: center;
+        margin: 0 105px;
+    }
+
+    .practice-area .service-txt h2{
+        font-size: 28px;
+    }
+
+    .practice-area .service-txt p{
+        width: 97%;
+        font-size: 14px;
+        line-height: 23px;
+    }
+
+    .practice-area{
+        margin-bottom: 70px;
+    }
+
+    .practice-button{
+        margin-bottom: 30px;
+    }
+
+    .practice-button a{
+        border: 2px var(--mn-txt-color) solid;
+        color: var(--mn-txt-color);
+        font-weight: bolder !important;
+        padding: 12px 18px;
+        border-radius: 35px;
+        align-items: center;
+        transition: .5s;
+        font-size: 15px;
+    }
+    
+    .practice-button i{
+        font-size: 15px;
+        font-weight: bolder !important;
+        margin: 0 0 0 10px;
+        align-items: center;
+    }
+
+    .all-2-row{
+        margin-bottom: 60px;
+    }
+
+    .practice-mask{
+        padding: 15px 25px;
+        height: 100%;
+        object-fit: cover;
+        width: 100%;
+    }
+
+    .practice-mask h4{
+        font-size: 24px;
+    }
+    
+    .practice-mask p{
+        line-height: 22px;
+        font-size: 14px;
+    }
+    
+    .practice-mask a{
+        padding: 7px 18px;
+    }
+
+    .practice-mask a{
+        font-size: 12px;
+    }
+
+    .our-attorneys .service-txt h2{
+        font-size: 28px;
+    }
+
+    .our-attorneys .service-txt p{
+        width: 97%;
+        font-size: 14px;
+        line-height: 23px;
+    }
+
+    .contact-us h2{
+        font-size: 32px;
+    }
+
+    .contact-us p{
+        width: 100%;
+        font-size: 13px;
+        font-weight: bold;
+    }
+
+    .contact-us i{
+        font-size: 13px;
+    }
+
+    .Ourblog .service-txt h2{
+        font-size: 32px;
+    }
+
+    .Ourblog .service-txt p{
+        color: #888888;
+        width: 99%;
+    }
+
+    .blogbox{
+        padding: 0 18px;
+    }
+
+    .last-blog{
+        margin-bottom: 50px;
+    }
+
+    .obox {
+        padding: 20px 20px;
+    }
+
+    .icons-media li i{
+        border: 1px white solid;
+        font-size: 16px;
+        padding: 7px 10px;
+        margin: 0 5px;
+    }
+
+    .media-icons{
+        display: grid;
+        place-items: center;
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+
+    .icons-media li i {
+        border: 1px white solid;
+        font-size: 18px;
+        padding: 8px 12px;
+        margin: 0px 4px;
+    }
+
+    .orange-mail{
+        margin-top: 15px;
+        /* margin-left: 25px; */
+        display: grid;
+        place-items: center;
+    }
+
+    .last-phone{
+        margin-top: -7px;
+    }
+
+    .orange-mail h3{
+        font-size: 13px;
+    }
+    
+    .orange-mail i{
+        font-size: 44px !important;
+        margin: 8px;
+    }
+    
+    .orange-mail p{
+        font-size: 18px;
+    }
+    
+    .last-phone h3{
+        font-size: 13px;
+    }
+    
+    .last-phone i{
+        font-size: 44px !important;
+    }
+    
+    .last-phone p{
+        font-size: 18px;
+    }
+
+    .last-phone{
+        display: grid;
+        place-items: center;
+    }
+
+    .big-footer{
+        margin-top: -25px;
+    }
+
+    .foot-row-1 img{
+        width: 75% !important;
+    }
+
+    .foot-row-2 h4{
+        margin-bottom: 23px;
+        margin-top: -25px;
+        font-size: 20px;
+    }
+
+    .foot-row-2 li a{
+        font-size: 14px;
+    }
+
+    .footer .reserve{
+        margin-top: -10px;
+    }
+
+    .map{
+        height: 300px !important;
+    }
+
+    .contact-part{
+        margin-top: 200px;
+        margin-bottom: 50px;
+    }
+
+}
+
