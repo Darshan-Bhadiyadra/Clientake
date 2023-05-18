@@ -116,4 +116,4 @@ setInterval(function(){
 
     $('.loader').fadeOut();
 
-},3000)
+},1000)
